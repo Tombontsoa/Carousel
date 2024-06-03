@@ -1,0 +1,20 @@
+.container h1 {
+    text-align: center;
+}
+.imgContainer{
+    display: grid;
+    place-content: center;
+}
+.hide{
+    display: none;
+}
+.img{
+    width: 50vw;
+    height: 50vh;
+}
+.btnContainer{
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
